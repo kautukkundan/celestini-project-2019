@@ -7,6 +7,7 @@ ___
 ## Our Approach
 #### Since we had limited time we used 3 images from the dataset to generate and optimize RMSE using disparity
 ##### Important Points 
+- QUARTER RESOLUTION IMAGES WERE USED
 - Basic Block matching algorithm was used
 - 2 loss functions were tested SAD (sum of absolute distances) and SSD (Sum of squared distances)
 - The images were tested on 2 factors - Block size and Window Size
